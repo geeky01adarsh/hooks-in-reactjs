@@ -1,0 +1,21 @@
+section{
+  align-items: center;
+  justify-content: center;
+  top: 0;
+  left: 0;
+}
+
+ul{
+  list-style: none;
+}
+
+.gallery{
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 16px;
+  max-width: 300px;
+}
+
+.hi{
+  background-color: red;
+}

@@ -1,0 +1,15 @@
+section{
+    display: block;
+}
+ul {
+    list-style: none;
+}
+
+.gallery {
+    /* background-color: saddlebrown; */
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 16px;
+    max-width: 300px;
+    overflow: auto;
+}
